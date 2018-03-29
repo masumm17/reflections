@@ -5,3 +5,6 @@ When collaborating with others, have backup, show my works to other.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 While working on a feature or bug fix, a single commit might not sufficient to make the repo publicly displayable. So if each commit were automatically pushed/pulled it might be possible to public incomplete codes.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are to cloning a repository on GitHub from other account to my account. Clones are to copying an reository from an existing repository from GitHub to local computer or from on repo of local computre to anothe repo on local computer. Branchs are to add labels to diffrent commit to create a parallel repo.
+
